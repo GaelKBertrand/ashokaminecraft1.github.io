@@ -10,7 +10,7 @@ http://www.templatemo.com/preview/templatemo_460_medigo
 	BASIC STYLES 
 --------------------------------------------------------*/
 body {
-  background: white;
+  background: #190311;
   font-size: 16px;
   font-family: "PT Serif", Georgia, serif;
   font-weight: normal;
@@ -311,7 +311,7 @@ a.menu-toggle-btn i {
 }
 
 .dark-content {
-  background-color: #31373a;
+  background-color: #033809;
   width: 100%;
   padding: 70px 0 80px 0;
 }
